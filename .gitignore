@@ -1,0 +1,21 @@
+# .gitignore
+
+# Backend
+backend/__pycache__
+backend/venv
+backend/env
+backend/token.json
+backend/ai-secret.json
+backend/client_secret.json
+
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/build
+
+# Uploads
+uploads/
+
+# General
+*.log
+.DS_Store
