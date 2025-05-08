@@ -31,8 +31,6 @@ A comprehensive virtual classroom application with a FastAPI backend and React f
 - React
 - Vite
 
-## Screenshots
-
 ## 🔍 Feature Gallery
 
 | Screenshot | Description |
