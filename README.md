@@ -33,6 +33,21 @@ A comprehensive virtual classroom application with a FastAPI backend and React f
 
 ## Screenshots
 
+## 🔍 Feature Gallery
+
+| Screenshot | Description |
+|-----------|-------------|
+| ![](screenshots/login.jpeg) | **Login Page** – Secure authentication interface |
+| ![](screenshots/dashboard-stu.jpeg) | **Student Dashboard** – Personalized view of courses and tasks |
+| ![](screenshots/dashboard-tea.png) | **Teacher Dashboard** – Overview of classes and submissions |
+| ![](screenshots/assignments-tea.png) | **Assignments Panel** – Assign work and track deadlines |
+| ![](screenshots/submissions-stu.png) | **Submissions** – View and upload coursework |
+| ![](screenshots/marks.jpeg) | **Marks Management** – Grade overview interface |
+| ![](screenshots/chatroom.jpeg) | **Chatroom** – Real-time discussion between users |
+| ![](screenshots/notifications.jpeg) | **Notifications** – Instant alerts for updates |
+| ![](screenshots/rsrc-sharin.jpeg) | **Resource Sharing** – Upload and access materials |
+| ![](screenshots/JIRA-burndownchart.jpeg) | **JIRA Chart** – Sprint progress overview |
+
 
 ## Getting Started
 
