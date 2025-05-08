@@ -82,11 +82,3 @@ A comprehensive virtual classroom application with a FastAPI backend and React f
 When the backend server is running, API documentation is available at:
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
-
-## License
-
-This project is copyright protected. No license has been specified.
-
-## Contributing
-
-For details on contributing to this project, please contact the repository owner.
