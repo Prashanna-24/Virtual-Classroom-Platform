@@ -4,21 +4,35 @@ A comprehensive virtual classroom application with a FastAPI backend and React f
 
 ## Features
 
+- Interactive classroom UI
+- Real-time chatrooms
+- Notifications
+- Course Creation and Registration
+- Jwt token based session management
+- Assignment creation, submission, grading
 - Real-time attendance tracking
 - Integrated video conferencing
-- Secure file sharing and management
-- Interactive classroom UI
+- Resource sharing with AI based tag generation
+- Video Conferencing - Gmeet
 
 ## Technology Stack
 
 ### Backend
-- FastAPI
-- Uvicorn
-- Redis
+- Python - FastAPI
+- MongoDB – Database for storing user data, assignments, attendance, and resources.
+- Redis– For real-time chat, notifications.
+###### Authentication & Security:
+- JWT (JSON Web Token) – For user authentication and session management.
+- bcrypt.js – For password hashing.
+###### Additional Technologies:
+- keybert - automatic tagging
 
 ### Frontend
 - React
 - Vite
+
+## Screenshots
+
 
 ## Getting Started
 
